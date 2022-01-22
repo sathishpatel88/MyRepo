@@ -1,0 +1,53 @@
+hi
+how
+are
+you
+what
+you
+do
+to
+live
+anything
+how
+much
+you
+earn
+per
+hour
+what's
+your
+opinion
+on
+crypto
+currency
+uname
+uname -a
+hostname
+hostnamectl set-hostname
+sudo
+su
+adduser
+deluser
+userdel
+rm -rf
+rm
+echo
+exec bash
+cd
+cd ..
+cd ../../../
+date
+cat /etc/redhat-release
+cat /proc/cpuinfo
+free -h
+free
+clear
+git init
+git status
+git commit
+systemctl start jenkins
+mvn clean
+mvn install
+git --version
+jenkins --version
+
